@@ -13,7 +13,7 @@ func main() {
 	var bestand string = "keuzes"
 	for {		
 		var keuze string
-		fmt.Println("1. BESTAND KIEZEN")
+		fmt.Println("\n1. BESTAND KIEZEN")
 		fmt.Println("SPIN THE WHEEL")
 		fmt.Print(": ")
 		fmt.Scanln(&keuze)
